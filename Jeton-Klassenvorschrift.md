@@ -10,6 +10,10 @@ permalink: /
 Diese Klassenvorschrift wurde am 3. Mai 1997 durch die ordentliche Mitgliederversammlung der Klassenvereinigung der Jeton-Klasse ASJETON verabschiedet und am 25. Februar 1998 durch den Technischen Ausschuß des DSV genehmigt.
 {: .fs-3}
 
+**Ergänzungen**:  
+In den Regeln 6.2, 16.9, 16.10.2, 18 Genehmigung DSV vom 29.11.2002, in Kraft ab 01.04.2003   
+{: .fs-3}
+
 ---
 
 ## 1 Allgemeines
@@ -92,7 +96,7 @@ Diese Klassenvorschrift wurde am 3. Mai 1997 durch die ordentliche Mitgliederver
 
 - **6.1** Die im Meßbrief angegebene Nummer des Rumpfes ist am Rumpf - Innenseite Spiegel, durch den Schaudeckel sichtbar - einzulaminieren.
 
-- **6.2** Im Großsegel muß sich oberhalb der halben Höhe die Segelnummer befinden. Das Klassenzeichen ist im Großsegel über der Segelnummer anzubringen. Im Großsegel ist zusätzlich das Nationalitätszeichen vor oder über der Segelnummer zu führen.
+- **6.2** Im Großsegel muß sich oberhalb der halben Höhe die Segelnummer befinden. Das Klassenzeichen ist im Großsegel über der Segelnummer anzubringen. Im Großsegel ist zusätzlich das Nationalitätszeichen vor oder über der Segelnummer zu führen. Als Nationalitätskennzeichen müssen entweder die vor dem 31. März 1999 vorgeschriebenen oder die danach in WR 77 vorgeschriebenen Nationalitätsbuchstaben gefahren werden.
 
 - **6.3** Die Segelnummer steht unter dem Klassenzeichen und muß *300±20 mm*  
     hoch sein, die Schriftstärke beträgt mindestens *50 mm*  
@@ -362,13 +366,13 @@ Diese Klassenvorschrift wurde am 3. Mai 1997 durch die ordentliche Mitgliederver
 
     - **16.8.1** Die Fockholepunkte dürfen fernverstellbar sein.
 
-- **16.9** Die Spinnakerschotführung ist freigestellt. Die Schoten dürfen nicht durch die Tanks laufen.
+- **16.9** Die Führung der Spinnakerschoten ist freigestellt. Wenn sie durch Auftriebstanks laufen, müssen die Durchführungen so ausgeführt sein, dass die Wasserdichtigkeit der Tanks erhalten bleibt.
 
 - **16.10** Trimmeinrichtungen
 
     - **16.10.1** Für Groß- und Vorsegel sind als Trimmeinrichtungen, die beim Segeln bewegt werden dürfen, erlaubt: Baumniederholer, Cunningham, Unterliekstrecker, Fockcunningham.
 
-    - **16.10.2** Die Führung der Trimmschoten ist freigestellt. Die Trimmschoten dürfen nicht durch die Tanks laufen.
+    - **16.10.2** Die Führung der Trimmschoten ist freigestellt. Wenn sie durch Auftriebstanks laufen, müssen die Durchführungen so ausgeführt sein, dass die Wasserdichtigkeit der Tanks erhalten bleibt.
 
 - **16.11** Die Riggspannung darf durch Trimmen des Fockfalls eingestellt werden.
 
@@ -457,7 +461,8 @@ Diese Klassenvorschrift wurde am 3. Mai 1997 durch die ordentliche Mitgliederver
 Bei Wettfahrten müssen folgende Ausrüstungsgegenstände an Bord sein:
 
 - • 2 Schwimmwesten
-- • Stechpaddel, Mindestlänge 1 m
+- • 1 Stechpaddel, Mindestlänge 1 m
+- • 1 Schleppleine, Länge min. 15 m, Durchmesser 8 mm, schwimmfähig
 
 Zusätzliche Ausrüstungsgegenstände gemäß Ausschreibung des Veranstalters.
 
