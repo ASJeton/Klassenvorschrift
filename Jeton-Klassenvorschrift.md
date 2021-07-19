@@ -11,7 +11,8 @@ Diese Klassenvorschrift wurde am 3. Mai 1997 durch die ordentliche Mitgliederver
 {: .fs-3}
 
 **Ergänzungen**:  
-In den Regeln 6.2, 16.9, 16.10.2, 18 Genehmigung DSV vom 29.11.2002, in Kraft ab 01.04.2003   
+In den Regeln 6.2, 16.9, 16.10.2, 18: Genehmigung DSV vom 29.11.2002, in Kraft ab 01.04.2003  
+In den Regeln 2.2 und 5.4: Genehmigung DSV vom 28.11.2003, in Kraft ab 01.04.2004  
 {: .fs-3}
 
 ---
@@ -39,7 +40,6 @@ In den Regeln 6.2, 16.9, 16.10.2, 18 Genehmigung DSV vom 29.11.2002, in Kraft ab
 - **2.2** Der Lizenzgeber ist die Firma Bootsbau Gruben. Über Vergabe von Baulizenzen entscheiden:
   - • DSV (1 Stimme)
   - • Jeton-Klassenvereinigung (1 Stimme)
-  - • Bootsbau Gruben (1 Stimme)
 
 - **2.3** Kommt keine Einigung zustande, wird der Status "Nationale Klasse" aberkannt.
 
@@ -76,7 +76,7 @@ In den Regeln 6.2, 16.9, 16.10.2, 18 Genehmigung DSV vom 29.11.2002, in Kraft ab
 
 - **5.3** Zur Vermessung sind nur die offiziellen Jeton-Schablonen zugelassen.
 
-- **5.4** Soweit die Klassenvorschrift nichts anderes aussagt, gelten die Vermessungsvorschriften der IYRU.
+- **5.4** Soweit die Klassenvorschrift nichts anderes aussagt, gelten die Vermessungsvorschriften der ISAF.
 
 - **5.5** Nach der Erstvermessung (Typenprüfung) ist der Eigner verantwortlich für die Einhaltung der Klassenvorschrift.
 
