@@ -11,9 +11,9 @@ Diese Klassenvorschrift wurde am 3. Mai 1997 durch die ordentliche Mitgliederver
 {: .fs-3}
 
 **Ergänzungen**:  
-In den Regeln 6.2, 16.9, 16.10.2, 18: Genehmigung DSV vom 29.11.2002, in Kraft ab 01.04.2003  
-In den Regeln 2.2 und 5.4: Genehmigung DSV vom 28.11.2003, in Kraft ab 01.04.2004  
-In den Regeln 8.2.5, 8.3.6, 8.4.1, 14.3 und 17.5.3: Genehmigung DSV vom 10.04.2013, in Kraft ab 01.04.2013  
+In den Regeln 6.2, 16.9, 16.10.2, 18: Genehmigung DSV vom 29.11.2002, in Kraft ab 01.04.2003 ([Details](https://github.com/ASJeton/Klassenvorschrift/commit/0858cfd3bc4e7f001cf9294dec659368ea7cdaf7))  
+In den Regeln 2.2 und 5.4: Genehmigung DSV vom 28.11.2003, in Kraft ab 01.04.2004 ([Details](https://github.com/ASJeton/Klassenvorschrift/commit/cf17656bb7dce6120f94a6ffa5c3e2eae7b50776))   
+In den Regeln 8.2.5, 8.3.6, 8.4.1, 14.3 und 17.5.3: Genehmigung DSV vom 10.04.2013, in Kraft ab 01.04.2013 ([Details](https://github.com/ASJeton/Klassenvorschrift/commit/6b3775d74bb2c33d984ce7d0737f5ad43332598e))   
 {: .fs-3}
 
 ---
