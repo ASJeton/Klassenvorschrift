@@ -13,6 +13,7 @@ Diese Klassenvorschrift wurde am 3. Mai 1997 durch die ordentliche Mitgliederver
 **Ergänzungen**:  
 In den Regeln 6.2, 16.9, 16.10.2, 18: Genehmigung DSV vom 29.11.2002, in Kraft ab 01.04.2003  
 In den Regeln 2.2 und 5.4: Genehmigung DSV vom 28.11.2003, in Kraft ab 01.04.2004  
+In den Regeln 8.2.5, 8.3.6, 8.4.1, 14.3 und 17.5.3: Genehmigung DSV vom 10.04.2013, in Kraft ab 01.04.2013  
 {: .fs-3}
 
 ---
@@ -164,7 +165,8 @@ In den Regeln 2.2 und 5.4: Genehmigung DSV vom 28.11.2003, in Kraft ab 01.04.200
 
     - **8.2.5** Spantvermessung von "0" bis 3 mit Vermessungsschablonen.  
         Maßtoleranz *± 10 mm*  
-        für Spantprofil und Deckshöhe. Die Vermessungsschablonen sind lotrecht zur Basislinie anzulegen bis auf die Spiegelschablone, die an der Neigung des Spiegels anzulegen ist.
+        für Spantprofil und Deckshöhe. Die Vermessungsschablonen sind lotrecht zur Basislinie anzulegen bis auf die Spiegelschablone, die an der Neigung des Spiegels anzulegen ist. Die Vermessung zwischen Spant 0 und 1 und zwischen Spant 2 und 3 ist strakend auszuführen. Konkave Abweichungen *bis zu 5 mm*  
+        bedingt durch die Lagerung ("Trailerbeule") sind akzeptabel.
 
     - **8.2.6** Bugvermessung mit Schablone. Maßtoleranz für Stevenkontur *± 5 mm*  
         Schablone wird am Steven angelegt.
@@ -199,7 +201,7 @@ In den Regeln 2.2 und 5.4: Genehmigung DSV vom 28.11.2003, in Kraft ab 01.04.200
         - **(i)** Größte Breite der Scheuerleiste horizontal *max. 45 mm*
         - **(ii)** Größte Höhe der Scheuerleiste vertikal *max. 55 mm*
 
-    - **8.3.6** Kleinster Abstand Mastvorderkante bis Fläche "0" *LM min. 2980 mm*
+    - **8.3.6** Kleinster Abstand Mastvorderkante bis auf Höhe Messmarke "0" *LM min. 2980 mm*
 
     - **8.3.7** Abstand des Schnittpunktes des Fockvorlieks auf Deck von Fläche "0" *LVS max. 4520 mm*
 
@@ -208,8 +210,8 @@ In den Regeln 2.2 und 5.4: Genehmigung DSV vom 28.11.2003, in Kraft ab 01.04.200
 
 - **8.4** Auftrieb
 
-    - **8.4.1** Das segelfertige Boot muß in vollgelaufenem Zustand ein Auftriebsvolumen von *min. 150 l*  
-        haben. Der Auftrieb wird durch geeignete geschlossenzellige Schaumstoffkörper erzeugt.
+    - **8.4.1** Das segelfertige Boot muss in vollgelaufenem Zustand ein Auftriebsvolumen von *min. 150 l*  
+        haben. Der Auftrieb wird durch geeignete geschlossenzellige Schaumstoffkörper oder durch aufblasbare Auftriebskörper erzeugt.
 
     - **8.4.2** Das Boot muß in vollgelaufenem Zustand annähernd waagerecht schwimmen; dies wird durch die gleichmäßige Anordnung der Auftriebselemente in den Seitentanks erreicht.
 
@@ -331,6 +333,8 @@ In den Regeln 2.2 und 5.4: Genehmigung DSV vom 28.11.2003, in Kraft ab 01.04.200
 
 - **14.2** Maximale Länge in eingehängtem Zustand incl. Haltebeschlag von Vorderkante Mitte Mast aus gemessen *SPL max. 2040 mm*
 
+- **14.3** Ein automatisiertes Spibaumsetz- und -bergesystem ("Pershing") ist erlaubt.
+
 ## 15 Stehendes/Laufendes Gut
 
 - **15.1** Zur Verstagung des Mastes sind ein Paar Wanten, sowie ein Vorstag erlaubt.
@@ -445,7 +449,7 @@ In den Regeln 2.2 und 5.4: Genehmigung DSV vom 28.11.2003, in Kraft ab 01.04.200
 
     - **17.5.2** Länge der Mittelfalte *ML max. 5470 mm*
 
-    - **17.5.3** Unterlieklänge *UL max. 1730 mm*
+    - **17.5.3** Halbe Unterlieklänge *UL max.1730 mm*
 
     - **17.5.4** Mittelbreiten
 
