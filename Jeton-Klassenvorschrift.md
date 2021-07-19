@@ -7,12 +7,7 @@ permalink: /
 # Klassenvorschrift der nationalen Jeton-Klasse
 {: .fs-9 }
 
-Fassung vom 1. April 1993
-{: .fs-6 .fw-300 }
-
----
-
-In dieser Fassung sind die von der Klassenversammlung 1991 beschlossenen Änderungen, die am 28. November 1992 durch den Technischen Ausschuß des DSV gebilligt wurden, enthalten. Die Klassenvorschrift wurde außerdem vom DSV zusammen mit dem technischen Auschuß der ASJETON überarbeitet.
+Diese Klassenvorschrift wurde am 3. Mai 1997 durch die ordentliche Mitgliederversammlung der Klassenvereinigung der Jeton-Klasse ASJETON verabschiedet und am 25. Februar 1998 durch den Technischen Ausschuß des DSV genehmigt.
 {: .fs-3}
 
 ---
