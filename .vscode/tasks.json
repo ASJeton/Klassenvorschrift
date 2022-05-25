@@ -4,14 +4,22 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Start Jekyll",
+            "label": "Build",
             "type": "shell",
-            "command": "bundle exec jekyll serve",
-            "problemMatcher": [],
+            "command": "bundle exec jekyll build",
+            "group": "build",
+            "problemMatcher": []
+        },
+        {
+            "label": "Serve",
+            "type": "shell",
+            "command": "bundle exec jekyll serve --livereload",
             "group": {
                 "kind": "build",
                 "isDefault": true
-            }
+            },
+            "isBackground": true,
+            "problemMatcher": []
         }
     ]
 }
