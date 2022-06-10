@@ -69,7 +69,7 @@ In den Regeln 8.2.5, 8.3.6, 8.4.1, 14.3 und 17.5.3: Genehmigung DSV vom 10.04.20
 
 - **4.5** Regel 4 kann ersetzt werden durch entsprechende Vorschriften anderer nationaler Verbände.
 
-## Vermessung
+## 5 Vermessung
 
 - **5.1** Die Typenprüfung und/oder Vermessung darf nur durch einen anerkannten DSV-Vermesser vorgenommen werden.
 
@@ -97,25 +97,32 @@ In den Regeln 8.2.5, 8.3.6, 8.4.1, 14.3 und 17.5.3: Genehmigung DSV vom 10.04.20
 
 - **6.1** Die im Meßbrief angegebene Nummer des Rumpfes ist am Rumpf - Innenseite Spiegel, durch den Schaudeckel sichtbar - einzulaminieren.
 
-- **6.2** Im Großsegel muß sich oberhalb der halben Höhe die Segelnummer befinden. Das Klassenzeichen ist im Großsegel über der Segelnummer anzubringen. Im Großsegel ist zusätzlich das Nationalitätszeichen vor oder über der Segelnummer zu führen. Als Nationalitätskennzeichen müssen entweder die vor dem 31. März 1999 vorgeschriebenen oder die danach in WR 77 vorgeschriebenen Nationalitätsbuchstaben gefahren werden.
+- **6.2** Im Großsegel sind das Klassenzeichen und darunter das Nationalitätskennzeichen und die Segelnummer anzubringen. Das Nationalitätskennzeichen steht vor oder über der Segelnummer. Die Segelnummer muss sich oberhalb des ersten Drittels der Höhe des Großsegels befinden. Nationalitätskennzeichen und Segelnummern sind auf beiden Seiten des Großsegels in unterschiedlicher Höhe anzubringen, an Steuerbord höher als an Backbord.
 
-- **6.3** Die Segelnummer steht unter dem Klassenzeichen und muß *300±20 mm*  
-    hoch sein, die Schriftstärke beträgt mindestens *50 mm*  
-    Klassenzeichen und Segelnummer müssen in roter Farbe ausgeführt sein und sind auf beiden Seiten des Großsegels in unterschiedlicher Höhe anzubringen, an Steuerbord höher als an Backbord. Das Segelzeichen des Jeton besteht aus einem in der Mitte zweigeteilten Kreis; die obere Hälfte ist rot, die untere Hälfte enthält ein rotes "J". 
-    Der Durchmesser des Segelzeichens beträgt *320±20 mm*  
-    (gemäß Segelblatt).
+- **6.3** Das Klassenzeichen des Jeton besteht aus einem in der Mitte zweigeteilten Kreis; die obere Hälfte ist rot, die untere Hälfte enthält ein rotes "J".  
+Der Durchmesser des Segelzeichens beträgt *320±20 mm*  
+(gemäß Messblatt 3).  
+Höhe der Buchstaben des Nationalitätskennzeichens und Zahlen der Segelnummer *300±20 mm*  
+Schriftstärke *min. 50 mm*  
+Als Nationalitätskennzeichen müssen entweder die vor dem 31. März 1999 vorgeschriebenen oder die danach in WR 77 vorgeschriebenen Nationalitätsbuchstaben gefahren werden. Das Nationalitätskennzeichen und die Segelnummer sind in kontrastierender Farbe anzubringen.
 
 - **6.4** Auf dem Spinnaker sind Nationalitätszeichen und Unterscheidungsnummer (Größe unter 6.3) in ähnlicher Weise jedoch in annähernd halber Höhe in kontrastierender Farbe anzubringen.
 
 ## 7 Bauverfahren
 
-- **7.1** Der Jeton-Rumpf darf nur im Handauflegeverfahren in GFK hergestellt werden. Das Deck darf in Holz gefertigt werden.
+- **7.1** Der Jeton-Rumpf darf nur im Handauflegeverfahren in GFK hergestellt werden.
 
-    - **7.1.1** Sandwichbauweise ist erlaubt. Sandwichbauweise darf auch zur Verstärkung von einzelnen Flächen eingesetzt werden.
+    - **7.1.1** Das Deck darf in Holz gefertigt werden.
+    
+    - **7.1.2** Ein Schwerttisch aus GFK oder Holz ist erlaubt.
 
-    - **7.1.2** Schotten, Reitbalken sowie Versteifungen jeglicher Art sind freigestellt.
+    - **7.1.3** Sandwichbauweise ist erlaubt. Sandwichbauweise darf auch zur Verstärkung von einzelnen Flächen eingesetzt werden.
 
-    - **7.1.3** Als Materialien sind ausschließlich zugelassen: Glasfaser, Polyester, Hartschaum, Holz.
+    - **7.1.4** Schotten, Reitbalken sowie Versteifungen jeglicher Art sind freigestellt.
+
+    - **7.1.5** Als Materialien sind ausschließlich zugelassen: Glasfaser, Polyester, Hartschaum, Holz.
+    
+    - **7.1.6** Holzteile dürfen mit Epoxidharz verklebt werden. Eine Beschichtung der Holzteile mit einer Schicht Glas- oder Kohlefaser-Gewebe von max. 250 g/m2 ist erlaubt.
 
 - **7.2** Das Boot darf in Doppelschalenbauweise gebaut werden. Die Bauweise der Doppelschale muß so stabil ausgeführt werden, daß sie für die Mannschaft allseitig begehbar ist. Das Deck darf aus mehreren Baugruppen bestehen.
 
@@ -175,7 +182,8 @@ In den Regeln 8.2.5, 8.3.6, 8.4.1, 14.3 und 17.5.3: Genehmigung DSV vom 10.04.20
         Tiefe in der Oberfläche des Kieles oder des Bootskörpers sind verboten. Die Überprüfung dieser Vorschrift ist mit einer mind. *1000 mm*  
         langen Straklatte durchzuführen.
 
-    - **8.2.8** Lage des Schwertdrehpunktes: waagerechter Abstand von Spant 2 *LSB 190±10 mm*
+    - **8.2.8** Lage des Schwertdrehpunktes: waagerechter Abstand von Spant 2 *LSB 190±10 mm*  
+        Abstand des Schwerdrehpunktes von der Kiellinie in vertikaler Richtung *max. 100 mm*
 
     - **8.2.9** Schwertkasten
         - **(i)** Lichte Weite des Schwertkastens am Kiel, ausgenommen Führungshilfen *BSK 30±5 mm* 
